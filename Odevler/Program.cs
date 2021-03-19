@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace Odevler
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            switch ()
+            {
+                default:
+            }
+        }
+    }
+}
